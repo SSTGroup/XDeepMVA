@@ -8,7 +8,7 @@ This repository is concerned with providing python implementation for both novel
 # How to use #
 ####################################################
 
-
+The developer notebook can be used to train the different models implemented. Currently, the data is just randomly generated to allow for exemplary demonstration on how to train and evaluate the models.
 
 ###########
 # Contact #
